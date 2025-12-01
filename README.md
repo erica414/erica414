@@ -30,11 +30,11 @@
   
 ## 4. 현재까지 진행한 GitHub 활동 내역
 
-🔥Contribution Graph
+## 🔥Contribution Graph
 
 ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=erica414&theme=github)
 
-🔥GitHub Trophy
+## 🔥GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=erica414)
 
