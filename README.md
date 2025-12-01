@@ -1,8 +1,8 @@
 ## 안녕하세요! 👋
 
 ![](https://komarev.com/ghpvc/?username=erica414)
-![CI](https://github.com/erica414/erica414/actions/workflows/main.yml/badge.svg)
 
+![CI](https://github.com/erica414/erica414/actions/workflows/blank.yml/badge.svg)
 
 ## 1. 자기소개
 - 이름: 신하윤
